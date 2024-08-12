@@ -278,7 +278,7 @@ function contact_raja() {
     contact_list.classList.toggle("audio-call-max");
     chat_logo.innerHTML = `<div class="rk-pic"><img src="file/rk-creation.png" alt=""></div>`
     // chat_logo.innerHTML = "<b>rr</b>"
-    chat_page_name.innerHTML = "8840893547";
+    chat_page_name.innerHTML = "Raja (You)";
 }
 function back_on() {
     chat_page.classList.toggle("audio-call-max")
